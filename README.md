@@ -1,2 +1,1 @@
-# knns-cron-jobs
-Cron jobs
+# Cron jobs
